@@ -17,3 +17,7 @@ Sample website with plenty of files for demos
 Holy hell deploying these things is fun!
 
 ## How to contribute
+
+### Copyright
+
+This is a very serious thing. Very.
